@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+I love
+- 🐱
+- 🎄
+- 🌳
+- 🌴
+
+
+I love
+1.dog
+2.cat
+3.ice cream
